@@ -1,4 +1,3 @@
-# Proyecto-Academico-PonDimension3D
 # 🏓 Pong Dimension 3D
 
 > Videojuego de pin-pong en 3D con física de rebote, cámara dinámica e inteligencia artificial.
